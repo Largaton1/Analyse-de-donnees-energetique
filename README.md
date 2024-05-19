@@ -1,4 +1,4 @@
-## Devoir de Maison Ingénierie Énergétique (1ère Année)
+## Devoir de Maison Ingénierie Énergétique (1ère Année) effectué pour Stephane Kouao
 Analyse de Données Énergétiques avec Python 3, NumPy, Matplotlib et Pandas
 Objectif :
 L'objectif de ce devoir est de vous familiariser avec les outils de base pour l'analyse de
